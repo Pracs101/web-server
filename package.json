@@ -1,0 +1,22 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Akkiro",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "cryptr": "^4.0.2",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "mongodb": "^2.2.5",
+    "mongoose": "^4.5.9"
+  }
+}

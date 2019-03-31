@@ -1,0 +1,7 @@
+{
+  "development": {
+    "PORT": 4000,
+    "MONGODB_URI": "mongodb://localhost:27017/CssWebApp",
+    "JWT_SECRET": "f4f65d81stj68132h8g4s3s5rf3sgs64"
+  }
+}
